@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya **Muhammad Zaki Muzhaffar**.<br>
+
+Saya seorang **Mahasiswa Sistem Informasi** di [UNRI](https://unri.ac.id/).<br>
+
+Saya saat ini sedang belajar di [Dicoding Academy](https://www.dicoding.com/).<br>
+
+Saya masih belajar mengenai sistem Informasi dan memperbanyak keahlian serta skill dengan terus belajar.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zaki-muzhaffar-b818bb159/)ku ya.
