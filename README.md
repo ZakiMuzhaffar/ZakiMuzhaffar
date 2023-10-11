@@ -22,4 +22,11 @@ Saya saat ini sedang belajar di [Dicoding Academy](https://www.dicoding.com/).<b
 
 Saya masih belajar mengenai sistem Informasi dan memperbanyak keahlian serta skill dengan terus belajar.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zaki-muzhaffar-b818bb159/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zaki-muzhaffar-b818bb159/)ku ya.  
+
+<p align="left">
+<a href="https://github.com/ZakiMuzhaffar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZakiMuzhaffar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZakiMuzhaffar&layout=compact&theme=algolia"/>
+</a>
+</p>
